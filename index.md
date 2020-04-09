@@ -29,8 +29,8 @@ Notre objectif étant de démontrer que les effets de la drogues sont néfastes 
 
 
 # Critère(s) d'évaluation 
-Evaluer les choix de vie d'une population en fonction de son lieu d'habitation
-Evaluer le développement economique/social d'une ville en fonction de ses habitants
+- Evaluer les choix de vie d'une population en fonction de son lieu d'habitation.
+- Evaluer le développement economique/social d'une ville en fonction de ses habitants.
 
 
 ## Présentation structurée des résultats
