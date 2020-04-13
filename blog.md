@@ -3,10 +3,8 @@
 ## Semaine 1 
 Tout d'abord, nous avons décidé de choisir une ville précise afin de collecter toutes les données et les statistiques nécessaires pour notre étude. D'apres nos premieres recherches scientifiques, la ville de Détroit, aux Etats-Unis, nous parait la plus apte à convenir au projet.
 
-
-Nous voudrions créer une matrice qui répartie les consommateurs de drogue dans la ville et les non-consommateurs, afin de visualiser notre monde.
-
-Puis, de prendre en compte le voisinnage (nous nous appuirons sur le model de schelling), pour nous aider à développer l'idée de l'influence sociale. 
+Dans un premier temps, nous voudrions étudier le paramamètre de l'influence socio-economique pour cela nous allons créer une matrice qui répartie les riches et les pauvres. POur mieux visualiser notre ville, ils seront modéliser par des 0 et des 1.
+Ensuite, nous allons créer une nouvelle matrice, qui créera une nouvelle version de la ville avec cette fois-ci les consommateurs de drogues et les non-consommateurs. 
 
 
 
