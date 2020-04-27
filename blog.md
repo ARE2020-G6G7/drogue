@@ -6,7 +6,7 @@ Tout d'abord, nous avons décidé de choisir une ville précise afin de collecte
 Dans un premier temps, nous voudrions étudier le paramamètre de l'influence socio-economique pour cela nous allons créer une matrice qui répartie la classe moyenne a riche et la classe pauvre. Pour mieux visualiser notre ville, ils seront modéliser par des 0 et des 1.
 Le taux de pauvreté à Détroit, est l'un des plus élevé aux Etats-Unis, il est de 36%.
 Ensuite, nous allons créer une nouvelle matrice, qui créera une nouvelle version de la ville avec cette fois-ci les consommateurs de drogues et les non-consommateurs.
-En effet, à partir d'un certain seuil de "pauvreté", les 0 pourront se transformer en -1. 
+En effet, lorsqu'un individu est entouré d'un carré de '0', il se transforme en -1. 
 
 
 
