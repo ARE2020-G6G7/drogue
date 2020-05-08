@@ -22,8 +22,10 @@ Auteur : Nada Lassoued
 
 
 ## Semaine 3
+L'objectif de la troisieme semaine est de finir les fonctions "déménagement" afin de commencer a créer les graphiques. 
 
 Auteur :
 
 ## Semaine 4
+
 Auteur :
