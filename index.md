@@ -49,7 +49,8 @@ Utilisation de Jupyter Notebook (langage : Python), modélisation de matrices av
 
 ## Bibliographie :
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
-https://framindmap.org/mindmaps/index.html#
+**Carte mentale de vos mots-clés**
+cf. carnet de bord 
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+
+Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux : Cf. carnet de bord
