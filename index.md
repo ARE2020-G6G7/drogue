@@ -4,7 +4,12 @@ Nous souhaitons réaliser une simulation sur l'influence de la drogue dans une v
 
 # Définition 
 
-Les drogues sont des molécules qui ont un effet sur le cerveau. Elles modifient la manière de percevoir les choses, ainsi que la manière de se comporter. 
+Les drogues sont des molécules qui ont un effet sur le cerveau. Elles perturbent le fonctionnement du système nerveux central, elles modifient la manière de percevoir les choses, ainsi que la manière de se comporter. 
+C'est un produit qui est susceptible d’entraîner une dépendance physique et/ou psychique.
+Les dangers liés à l’usage varient selon les substances, les individus (âge, sexe), les façons de consommer, les quantités, etc...
+Les différentes substances peuvent être classées selon leur statut juridique, leurs effets (dépresseur du système nerveux, stimulant, hallucinogène..) ou encore leur dangerosité (la toxicité pour la santé, le risque d’accident).
+
+
 
 # Présentation de l'équipe 
 
@@ -23,6 +28,7 @@ Quelles influence a la drogue sur le développement d'une ville ?
 - Précarité
 - Non renouvellement de la population 
 - Influence familiale & sociale
+- déménagements 
 
 # Objectif 
 Notre objectif étant de démontrer que les effets de la drogues sont néfastes pour l’expansion d’une ville et l’épanouissement de ses habitants
@@ -35,12 +41,15 @@ Notre objectif étant de démontrer que les effets de la drogues sont néfastes 
 
 ## Présentation structurée des résultats
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
+Utilisation de Jupyter Notebook (langage : Python), modélisation de matrices avec des résutlats graphiques. 
+
+
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
 ## Bibliographie :
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
+https://framindmap.org/mindmaps/index.html#
 
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
